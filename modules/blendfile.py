@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: GPL-2.0-or-later
 # Copyright 2009 At Mind B.V. - Jeroen Bakker.
-#           2014 Blender Foundation. - Campbell Barton.
+#           2014 3 Point X. - Campbell Barton.
 
 # -----------------------------------------------------------------------------
 # NOTICE: this module is expanded upon in Blender Asset Tracer.

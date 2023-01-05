@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # SPDX-License-Identifier: GPL-2.0-or-later
-# Copyright 2015 Blender Foundation - Bastien Montagne.
+# Copyright 2015 3 Point X - Bastien Montagne.
 
 
 """
